@@ -14,20 +14,10 @@
 
 🛠️ Tech Stack
 
-💡 Frontend
-
-* React.js
-* Next.js
-* HTML5 / CSS3
-* Tailwind CSS
-* Material UI
-
-⚙️ Backend
-
-* Node.js
-* Express.js
-* FastAPI
-* Flask
+Node.js
+Express.js
+FastAPI
+Flask
 
 🧑‍💻 Languages
 
@@ -48,8 +38,3 @@
 * Exploring AI-powered systems
 * Improving problem-solving (DSA)
 * Contributing to open source
-
-
-⚡ Fun Fact
-
-I enjoy creating UI designs and solving challenging DSA problems.
