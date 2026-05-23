@@ -1,21 +1,40 @@
-# 💫 About Me:
-Hi, I’m Kanchan Sharma<br><br>💻 Computer Science undergraduate passionate about building scalable web applications and AI-driven solutions. I enjoy solving real-world problems through clean, efficient code and continuously improving my development skills.<br><br>🚀 About Me<br><br>🎓 B.Tech in Computer Software Engineering (Expected 2027)<br>🌐 Full-stack developer specializing in modern web technologies<br>⚡ Experienced in building end-to-end applications (frontend + backend + database)<br>🧠 Exploring AI, Machine Learning, and NLP systems<br>🤝 Active contributor with 700+ GitHub contributions<br>🏆 National-level hackathon & AI competition winner<br>🛠️ Tech Stack<br><br>Node.js Express.js FastAPI Flask<br><br>🧑‍💻 Languages<br><br>JavaScript<br>Python<br>C / C++<br>🔧 Tools & Technologies<br><br>Git & GitHub<br>REST APIs<br>PostgreSQL<br>Postman<br>📊 What I’m Focused On<br><br>Building scalable full-stack applications<br>Exploring AI-powered systems<br>Improving problem-solving (DSA)<br>Contributing to open source
+👋 Hi, I’m Kanchan Sharma
+
+💻 Computer Science undergraduate passionate about building scalable web applications and AI-driven solutions. I enjoy solving real-world problems through clean, efficient code and continuously improving my development skills.
+
+🚀 About Me
+
+* 🎓 B.Tech in Computer Software Engineering (Expected 2027)
+* 🌐 Full-stack developer specializing in modern web technologies
+* ⚡ Experienced in building end-to-end applications (frontend + backend + database)
+* 🧠 Exploring AI, Machine Learning, and NLP systems
+* 🤝 Active contributor with 700+ GitHub contributions
+* 🏆 National-level hackathon & AI competition winner  
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kanchan-sharma-ba980828b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanchan.x.sharma1@gmail.com) 
+🛠️ Tech Stack
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kanchan0505&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=kanchan0505&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kanchan0505&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Node.js
+Express.js
+FastAPI
+Flask
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kanchan0505&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🧑‍💻 Languages
 
----
-[![](https://komarev.com/ghpvc/?username=kanchan0505&icon=0&color=0)](https://visitcount.itsvg.in)
+* JavaScript
+* Python
+* C / C++
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🔧 Tools & Technologies
+
+* Git & GitHub
+* REST APIs
+* PostgreSQL
+* Postman
+
+📊 What I’m Focused On
+
+* Building scalable full-stack applications
+* Exploring AI-powered systems
+* Improving problem-solving (DSA)
+* Contributing to open source
