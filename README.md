@@ -1,8 +1,8 @@
-👋 Hi, I’m Kanchan Sharma
+ Hi, I’m Kanchan Sharma
 
-💻 Computer Science undergraduate passionate about building scalable web applications and AI-driven solutions. I enjoy solving real-world problems through clean, efficient code and continuously improving my development skills.
+ Computer Science undergraduate passionate about building scalable web applications and AI-driven solutions. I enjoy solving real-world problems through clean, efficient code and continuously improving my development skills.
 
-🚀 About Me
+ About Me:
 
 * 🎓 B.Tech in Computer Software Engineering (Expected 2027)
 * 🌐 Full-stack developer specializing in modern web technologies
