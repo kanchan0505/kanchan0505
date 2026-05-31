@@ -22,6 +22,7 @@ Flask
 🧑‍💻 Languages
 
 * JavaScript
+* Typescript
 * Python
 * C / C++
 
