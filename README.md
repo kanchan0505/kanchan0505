@@ -4,25 +4,20 @@
 
  About Me:
 
-* 🎓 B.Tech in Computer Software Engineering (Expected 2027)
+* 🎓 B.Tech in Computer Software Engineering 
 * 🌐 Full-stack developer specializing in modern web technologies
 * ⚡ Experienced in building end-to-end applications (frontend + backend + database)
 * 🧠 Exploring AI, Machine Learning, and NLP systems
 * 🤝 Active contributor with 700+ GitHub contributions
-* 🏆 National-level hackathon & AI competition winner  
-
 
 🛠️ Tech Stack
 
-Node.js
-Express.js
+Node & Express.js
 FastAPI
-Flask
 
 🧑‍💻 Languages
 
 * JavaScript
-* Typescript
 * Python
 * C / C++
 
