@@ -2,14 +2,6 @@
 
  Computer Science undergraduate passionate about building scalable web applications and AI-driven solutions. I enjoy solving real-world problems through clean, efficient code and continuously improving my development skills.
 
- About Me:
-
-* 🎓 B.Tech in Computer Software Engineering 
-* 🌐 Full-stack developer specializing in modern web technologies
-* ⚡ Experienced in building end-to-end applications (frontend + backend + database)
-* 🧠 Exploring AI, Machine Learning, and NLP systems
-* 🤝 Active contributor with 700+ GitHub contributions
-
 🛠️ Tech Stack
 
 Node & Express.js
@@ -26,7 +18,6 @@ FastAPI
 * Git & GitHub
 * REST APIs
 * PostgreSQL
-* Postman
 
 📊 What I’m Focused On
 
