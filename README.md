@@ -1,22 +1,14 @@
- Hi, I’m Kanchan Sharma
+ Hi, I’m Kanchan Sharma 
 
- Computer Science undergraduate passionate about building scalable web applications and AI-driven solutions. I enjoy solving real-world problems through clean, efficient code and continuously improving my development skills.
-
-🛠️ Tech Stack
-
-Node & Express.js
-FastAPI
-
-🧑‍💻 Languages
-
+Languages:
 * JavaScript
 * Python
 * C / C++
+  
+AI/ML:
+* GenAI , RAG , Langchain , NLP 
 
-🔧 Tools & Technologies
-
-* Git & GitHub
-* REST APIs
+Tools & Technologies:
 * PostgreSQL
 
 📊 What I’m Focused On
